@@ -10,4 +10,8 @@
 
 ---
 
-![http://i.minus.com/iq5c33OPJmzrJ.png](http://i.minus.com/iq5c33OPJmzrJ.png)
+![http://i.imgur.com/bdSH7bW.png](http://i.imgur.com/bdSH7bW.png)
+
+![http://i.imgur.com/E8uxRxu.png](http://i.imgur.com/E8uxRxu.png)
+
+![http://i.imgur.com/nYGDkYh.jpg](http://i.imgur.com/nYGDkYh.jpg)
