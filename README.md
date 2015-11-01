@@ -1,6 +1,4 @@
-# Model sata (Blender)
-
-**Tema:** Model sata (Blender)
+# **Tema:** Model sata (Blender)
 
 **Oblast:** Računarska grafika (RG)
 
