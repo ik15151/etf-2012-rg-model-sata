@@ -1,4 +1,4 @@
-# etf-2012-rg-model-sata
+# Model sata (Blender)
 
 **Tema:** Model sata (Blender)
 
@@ -7,6 +7,8 @@
 **Alat:** Blender (http://www.blender.org/)
 
 **Godina:** 2012
+
+*Samostalan rad*
 
 ---
 
